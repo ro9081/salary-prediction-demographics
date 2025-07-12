@@ -18,3 +18,14 @@ The dataset includes the following columns:
 |Race|Race of the employee|
 
 By leveraging this dataset, the project seeks to build a robust predictive model that accurately estimates salaries based on demographic attributes, contributing valuable insights to the understanding of income disparities and the complex interplay of factors that influence earnings within diverse demographic contexts.
+## How to Run This Salary Prediction Project
+1. Clone & Navigate
+bashgit clone https://github.com/ro9081/salary-prediction-demographics.git
+cd salary-prediction-demographics
+2. Install Dependencies
+bashpip install pandas numpy matplotlib seaborn scikit-learn jupyter
+3. Run the Code
+bashjupyter notebook
+
+Open the main .ipynb file
+Run all cells from top to bottom
